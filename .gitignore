@@ -1,0 +1,9 @@
+# Scanned third-party books. Not ours to redistribute, and this remote is public.
+docs/pdf/
+
+# Its own git repo with its own remote (Data_Science_Learning_Material, 5.1 GB).
+# Nesting it here would make a clean clone of this repo silently get an empty dir.
+ds-learning-material/
+
+__pycache__/
+*.pyc
